@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GXOBackEnd", "GXOBackEnd\GXOBackEnd.csproj", "{D3FA1158-93C7-4AF6-8E0C-53C96986DC65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "colegioApi", "colegioApi\colegioApi.csproj", "{008E7034-6B8D-4327-BA48-D44C9B24C078}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "colegioApplication", "colegioAplicacio\colegioApplication.csproj", "{39B76923-392E-410D-9F2F-194A4D6AF215}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "colegioDominio", "colegioDominio\colegioDominio.csproj", "{FA045C4B-22A9-4D8E-8C41-24CB3D7BBEE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "colegioInfrastructure", "colegioInfrastructure\colegioInfrastructure.csproj", "{5C707134-C1CC-412D-99AE-E0245AA4DB49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "colegioShared", "colegioShared\colegioShared.csproj", "{3121327E-EB96-4681-BAD0-D994D4FE1364}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3FA1158-93C7-4AF6-8E0C-53C96986DC65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3FA1158-93C7-4AF6-8E0C-53C96986DC65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3FA1158-93C7-4AF6-8E0C-53C96986DC65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3FA1158-93C7-4AF6-8E0C-53C96986DC65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{008E7034-6B8D-4327-BA48-D44C9B24C078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{008E7034-6B8D-4327-BA48-D44C9B24C078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{008E7034-6B8D-4327-BA48-D44C9B24C078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{008E7034-6B8D-4327-BA48-D44C9B24C078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39B76923-392E-410D-9F2F-194A4D6AF215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39B76923-392E-410D-9F2F-194A4D6AF215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39B76923-392E-410D-9F2F-194A4D6AF215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39B76923-392E-410D-9F2F-194A4D6AF215}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA045C4B-22A9-4D8E-8C41-24CB3D7BBEE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA045C4B-22A9-4D8E-8C41-24CB3D7BBEE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA045C4B-22A9-4D8E-8C41-24CB3D7BBEE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA045C4B-22A9-4D8E-8C41-24CB3D7BBEE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C707134-C1CC-412D-99AE-E0245AA4DB49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C707134-C1CC-412D-99AE-E0245AA4DB49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C707134-C1CC-412D-99AE-E0245AA4DB49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C707134-C1CC-412D-99AE-E0245AA4DB49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3121327E-EB96-4681-BAD0-D994D4FE1364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3121327E-EB96-4681-BAD0-D994D4FE1364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3121327E-EB96-4681-BAD0-D994D4FE1364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3121327E-EB96-4681-BAD0-D994D4FE1364}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82B44C76-48F9-4967-8CA5-03F3AB85282C}
+	EndGlobalSection
+EndGlobal
